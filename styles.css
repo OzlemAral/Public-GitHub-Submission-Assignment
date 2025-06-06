@@ -1,0 +1,19 @@
+body {
+    background-color: #c8fdcf;
+    font-family: Helvetica, sans-serif;
+}
+header {
+    background-color: #6e3930;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+main {
+    padding: 20px;
+}
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
